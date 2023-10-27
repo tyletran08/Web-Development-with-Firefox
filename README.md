@@ -12,7 +12,7 @@ Firefox is a web browser developed by Mozilla. It is the second most popular web
 I have this repository to keep track of my progess using Firefox's web development guide. I also want to share my progress with others and show what I have learned.
 
 ## Progress so far
-### [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+### :white_check_mark: [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [x] Where should your website live on your computer?
 - [x] An aside on casing and spacing
     - Use hyphens to separate words in file names rather than underscores or spaces.
@@ -26,7 +26,7 @@ I have this repository to keep track of my progess using Firefox's web developme
     - To use a file in a subfolder, use the subfolder name followed by a forward slash, followed by the file name
     - To use a file above the current folder, use two periods followed by a forward slash, followed by the file name
 
-### [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+### :white_check_mark: [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [x] What is HTML?
     - Anatomy of an HTML element
         - Opening tag
@@ -49,7 +49,7 @@ I have this repository to keep track of my progess using Firefox's web developme
     - Lists
 - [x] Links
 
-### [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+### :red_circle: [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [ ] What is CSS?
     - Anatomy of a CSS ruleset
         - Selector
