@@ -11,7 +11,7 @@ Firefox is a web browser developed by Mozilla. It is the second most popular web
 ### Okay? Why do you have this repository?
 I have this repository to keep track of my progess using Firefox's web development guide. I also want to share my progress with others and show what I have learned.
 
-## Progress
+## Progress so far
 ### [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - [x] Where should your website live on your computer?
 - [x] An aside on casing and spacing
