@@ -48,3 +48,27 @@ I have this repository to keep track of my progess using Firefox's web developme
     - Paragraphs
     - Lists
 - [x] Links
+
+### [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [ ] What is CSS?
+    - Anatomy of a CSS ruleset
+        - Selector
+        - Declaration
+        - Properties
+        - Property value
+    - Selecting muiltiple elements
+    - Different types of selectors
+        - Type selectors
+        - Class selectors
+        - ID selectors
+        - Universal selectors
+        - Attribute selectors
+        - Pseudo-classes
+        - Pseudo-elements
+        - [etc.](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#types_of_selectors)
+- [ ] Fonts and text
+- [ ] CSS: all about boxes
+    - Changing the page color
+    - Styling the body
+    - Positioning and styling the main page title
+    - Centering the image
