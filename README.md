@@ -73,7 +73,7 @@ I have this repository to keep track of my progess using Firefox's web developme
     - Positioning and styling the main page title
     - Centering the image
 
-### :red_circles: [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+### :red_circle: [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [ ] What is JavaScript?
 - [ ] Language basics crash course
     - Varibles
