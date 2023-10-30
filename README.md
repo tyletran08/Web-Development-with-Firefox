@@ -49,8 +49,8 @@ I have this repository to keep track of my progess using Firefox's web developme
     - Lists
 - [x] Links
 
-### :red_circle: [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-- [ ] What is CSS?
+### :white_check_mark: [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [x] What is CSS?
     - Anatomy of a CSS ruleset
         - Selector
         - Declaration
@@ -66,9 +66,32 @@ I have this repository to keep track of my progess using Firefox's web developme
         - Pseudo-classes
         - Pseudo-elements
         - [etc.](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#types_of_selectors)
-- [ ] Fonts and text
-- [ ] CSS: all about boxes
+- [x] Fonts and text
+- [x] CSS: all about boxes
     - Changing the page color
     - Styling the body
     - Positioning and styling the main page title
     - Centering the image
+
+### :red_circles: [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [ ] What is JavaScript?
+- [ ] Language basics crash course
+    - Varibles
+        - String
+        - Number
+        - Boolean
+        - Array
+        - Object
+    - Comments
+    - Operators
+        - Addition (Can be used with strings)
+        - Subtraction, Multiplication, Division (Math)
+        - Strict equality (Boolean)
+        - Not (!)
+    - Conditionals
+    - Functions
+    - Events
+- [ ] Supercharging example website
+    - Adding an image changer
+    - Adding a personalized welcome message
+    - A user name of null?
